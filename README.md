@@ -2,4 +2,4 @@
 
 hasil git log
 
-![Screenshot (161)](https://user-images.githubusercontent.com/90668216/134152141-ac9fe8d7-f38e-4594-ad8b-8502c354d648.png)
+https://user-images.githubusercontent.com/90668216/134152557-7de67407-a2e0-4315-97ac-17549ba08a70.png
